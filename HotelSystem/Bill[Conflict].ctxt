@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bill()
+comment1.params=
+comment1.target=int\ countTotal()
+comment2.params=
+comment2.target=void\ printBill()
+comment3.params=trans\ fee
+comment3.target=void\ addTransaction(java.lang.String,\ int)
+numComments=4

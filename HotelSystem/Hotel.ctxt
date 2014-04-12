@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hotel()
+comment1.params=
+comment1.target=void\ runner()
+comment2.params=
+comment2.target=void\ roomsRegister()
+comment3.params=
+comment3.target=void\ servicesRegister()
+numComments=4

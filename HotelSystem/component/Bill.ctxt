@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bill()
+comment1.params=harga
+comment1.target=double\ hitungPajak(int)
+comment2.params=
+comment2.target=void\ resetBill()
+comment3.params=trans\ fee
+comment3.target=void\ addTransaction(java.lang.String,\ int)
+comment4.params=
+comment4.target=int\ countTotal()
+comment5.params=
+comment5.target=void\ printBill()
+numComments=6
